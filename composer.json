@@ -1,6 +1,6 @@
 {
     "version": "1.1.0",
-    "name": "nerdroid23/blade-icomoon",
+    "name": "hiz-grup/blade-icomoon",
     "description": "A package to easily make use of \"IcoMoon\" in your Laravel Blade views.",
     "keywords": [
         "laravel",
@@ -20,7 +20,7 @@
         "php": "^7.4|^8.0",
         "spatie/laravel-package-tools": "^1.4.3",
         "blade-ui-kit/blade-icons": "^1.5",
-        "illuminate/support": "^8.0|^9.0||^10.0"
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "brianium/paratest": "^6.2",
